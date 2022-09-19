@@ -18,8 +18,8 @@ $a = "\e[1;30m";
 $end = "\033[0m";
 $bmerah = "\033[101m";
 
-system("clear");
-system("open https://youtube.com/channel/UCel8C59vmVfh54VXRF3BZ7Q")
+system("clear")
+
 animasi($p."{$k}--------------------------------------------------{$p}\n");
 animasi($p."║ {$k}▶ {$p}Script  : {$h}Auto Follower Ig                  {$p}║\n");
 animasi($p."║ {$k}▶ {$p}Version : v.01                              {$p}║\n");
